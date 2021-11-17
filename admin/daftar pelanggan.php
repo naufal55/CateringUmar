@@ -64,7 +64,7 @@
         }
       }
       ?>
-
+<div class="table-responsive">
   <table class="table table-striped">
         <tr>
           <th>USERNAME</th>
@@ -111,7 +111,7 @@
         
 
       </table>
-
+      </div>
 </div>
 </content>
 <!--==============================content=================================-->

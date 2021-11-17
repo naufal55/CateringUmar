@@ -27,11 +27,10 @@
 <nav class="navbar navbar-default">
     <div class="container-fluid">
 
-      <ul class="nav navbar-nav">
+    <ul class="nav navbar-nav"> 
         <li><a href="index.php">Home</a></li>
-        <li><a href="menu.php">Menu</a></li>
-        <li><a href="about.php">Tentang Kami</a></li> 
-        <li><a href="contact.php">Hubungi Kami</a></li> 
+        <li class="active"><a href="daftar pelanggan.php">Daftar pelanggan</a></li>
+        <li ><a href="daftar pesanan.php" >Daftar pesanan</a></li> 
       </ul>
 
       <ul class="nav navbar-nav navbar-right">
